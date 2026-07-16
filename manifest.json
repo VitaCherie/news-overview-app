@@ -1,0 +1,14 @@
+{
+  "name": "News Overview",
+  "short_name": "News",
+  "description": "Vitaliia's daily noon overview of geopolitics, human rights, technology and AI, with in-depth commentary and cross-geography perspectives.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f1620",
+  "theme_color": "#0f1620",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
